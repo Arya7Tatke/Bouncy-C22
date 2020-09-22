@@ -1,2 +1,2 @@
-# Bouncy-C22
-Physics Engine made by me
+# staticSquare
+A static square made using Matter.js physics engine
